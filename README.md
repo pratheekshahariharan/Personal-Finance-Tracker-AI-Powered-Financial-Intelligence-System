@@ -190,14 +190,3 @@ While the core requirements focused on basic CRUD and categorization, this proje
 - [ ] **Real-time Exchange Rates**: Integrate a live Forex API for more accurate multi-currency support.
 - [ ] **Multi-User Authentication**: Implement JWT-based auth for secure user sessions.
 
----
-
-## 👨💻  Author
-**Pratheeksha Hariharan**
-
----
-
-## 📄 License
-This project is for educational/internship evaluation purposes.
-
-**Developed with ❤️ for the AUMNE AI Internship Selection Round.**

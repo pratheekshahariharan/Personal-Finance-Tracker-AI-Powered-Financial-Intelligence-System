@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+pytest
+httpx
+python-multipart
+google-genai
+python-dotenv
+easyocr
+opencv-python-headless
+numpy
